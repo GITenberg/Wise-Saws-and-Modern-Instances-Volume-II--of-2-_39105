@@ -1,0 +1,37 @@
+_repo: Wise-Saws-and-Modern-Instances-Volume-II--of-2-_39105
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cooper, Thomas
+    aliases:
+    - Hornbook, Adam
+    - Cooper, T. (Thomas)
+    birthdate: 1805
+    deathdate: 1892
+    gutenberg_agent_id: '34108'
+    url: http://www.gutenberg.org/2009/agents/34108
+description: ''
+gutenberg_issued: '2012-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39105'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Short stories, English'
+- !lcsh 'English fiction -- 19th century'
+tableOfContents: 'The old corporation -- Ned Wilcom; a story of a father''s sacrifice
+  of his child at the shrine of Mammon -- London ''venture; or, the old story over
+  again -- The lad who felt like a fish out of water -- The intellectual lever that
+  lacked a fulcrum -- Nicholas Nixon, "gentleman," who could not understand why, but
+  who knew "it was so" -- Signs of the times; or, one parson and two clerks -- Dame
+  Deborah Thrumpkinson, and her orphan apprentice, Joe -- Toby Lackpenny the philosophical:
+  a devotee of the marvellous.'
+title: Wise Saws and Modern Instances, Volume 2 (of 2)
+url: http://www.gutenberg.org/ebooks/39105
