@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '34108'
     url: http://www.gutenberg.org/2009/agents/34108
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39105#Wise-Saws-and-Modern-Instances-Volume-II--of-2-
 gutenberg_issued: '2012-03-11'
 gutenberg_type: Text
 identifiers:
